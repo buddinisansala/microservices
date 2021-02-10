@@ -1,0 +1,10 @@
+member:
+ barrow:
+  min: 8
+  max: 31
+ price:
+  discount: 3
+book:
+ default:
+  type: learning
+duration: all
